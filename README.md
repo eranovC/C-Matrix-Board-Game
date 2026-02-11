@@ -28,5 +28,5 @@ This project adheres to the following official academic requirements:
 
 ## 🚀 How to Compile & Run
 ```bash
-gcc main.cpp -o matrixgame
-./matrixgame
+gcc main.cpp -o BoardGame
+./BoardGame
